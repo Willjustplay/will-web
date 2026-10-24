@@ -1,0 +1,613 @@
+{
+  "SEED_PRODUCTS": [
+    {
+      "id": "ml-sultan-mythic",
+      "game": "Mobile Legends",
+      "category": "Akun Game",
+      "title": "Akun Sultan Mythic Glory — 320 Skin & 120 Hero",
+      "price": 4500000,
+      "rank": "Mythical Glory",
+      "image": "https://images.unsplash.com/photo-1653142267767-a66c7cf17bc1?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "images": [],
+      "stock": 1,
+      "badge": "Verified Seller",
+      "badges": [
+        "Verified Seller"
+      ],
+      "featured": true,
+      "sold": 214,
+      "rating": 4.9,
+      "created_at": "2026-09-08T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Login via Moonton ID (Email & Sandi diberikan via WhatsApp atau halaman pesanan)",
+      "description": "Akun Mobile Legends tier Mythical Glory dengan 320+ skin termasuk Legend, Collector, dan Zodiac lengkap. Win rate 68%, bind email pribadi, semua data diganti setelah pembayaran. Garansi penuh 30 hari."
+    },
+    {
+      "id": "ml-joki-mythic",
+      "game": "Mobile Legends",
+      "category": "Jasa Joki",
+      "title": "Jasa Joki Rank ke Mythic — Pro Player Fast Track",
+      "price": 350000,
+      "rank": "Epic → Mythic",
+      "image": "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "images": [],
+      "stock": 99,
+      "badge": "Garansi 100%",
+      "badges": [
+        "Garansi 100%"
+      ],
+      "featured": false,
+      "sold": 891,
+      "rating": 5,
+      "created_at": "2026-09-05T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Kirim ID & Server ke WhatsApp CS untuk jadwal joki",
+      "description": "Dijoki langsung oleh pro player top global. Proses 1-3 hari tergantung rank awal. Privasi akun 100% aman, tanpa cheat, tanpa VPN berbahaya. Update progres harian via WhatsApp."
+    },
+    {
+      "id": "ml-topup-1000dm",
+      "game": "Mobile Legends",
+      "category": "Topup Game",
+      "title": "Top Up 1000 Diamond Mobile Legends Instant",
+      "price": 250000,
+      "rank": "Via ID Server",
+      "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "images": [],
+      "stock": 999,
+      "badge": "",
+      "badges": [],
+      "featured": false,
+      "sold": 2300,
+      "rating": 4.8,
+      "created_at": "2026-09-09T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Diamond masuk 1-5 menit setelah pembayaran terverifikasi",
+      "description": "Top up diamond ML legal 100% via ID & server. Masuk otomatis 1-5 menit setelah pembayaran terkonfirmasi. Bonus diamond event mengikuti ketentuan Moonton."
+    },
+    {
+      "id": "pubg-conqueror",
+      "game": "PUBG Mobile",
+      "category": "Akun Game",
+      "title": "Akun Conqueror S24 — Maxed M416 Glacier",
+      "price": 6800000,
+      "rank": "Conqueror",
+      "image": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "images": [],
+      "stock": 1,
+      "badge": "Verified Seller",
+      "badges": [
+        "Verified Seller"
+      ],
+      "featured": false,
+      "sold": 87,
+      "rating": 4.9,
+      "created_at": "2026-09-02T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Login Twitter/FB/Email pribadi siap ganti",
+      "description": "Akun PUBG Mobile Conqueror season 24 dengan M416 Glacier max level, 15 outfit langka, dan RP lengkap sejak S10. Data lengkap, email ganti, garansi seumur akun."
+    },
+    {
+      "id": "pubg-joki-conqueror",
+      "game": "PUBG Mobile",
+      "category": "Jasa Joki",
+      "title": "Jasa Push Rank Conqueror — Squad Pro",
+      "price": 750000,
+      "rank": "Ace → Conqueror",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1080&auto=format&fit=crop",
+      "images": [],
+      "stock": 50,
+      "badge": "Garansi 100%",
+      "badges": [
+        "Garansi 100%"
+      ],
+      "featured": false,
+      "sold": 342,
+      "rating": 4.9,
+      "created_at": "2026-09-06T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Proses 3-7 hari, laporan harian",
+      "description": "Push rank ke Conqueror oleh squad pro berpengalaman turnamen. KD terjaga, statistik rapi, tanpa program ilegal. Estimasi 3-7 hari, laporan progres tiap hari."
+    },
+    {
+      "id": "gi-ar58-whale",
+      "game": "Genshin Impact",
+      "category": "Akun Game",
+      "title": "Akun AR58 Whale — 10 Limited 5★ C6 R1",
+      "price": 5500000,
+      "rank": "AR 58",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1080&auto=format&fit=crop",
+      "images": [],
+      "stock": 1,
+      "badge": "Diskon Hot",
+      "badges": [
+        "Diskon Hot"
+      ],
+      "featured": false,
+      "sold": 45,
+      "rating": 5,
+      "created_at": "2026-09-07T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Username set, email ganti ke milik pembeli",
+      "description": "Akun Genshin Impact AR58 server Asia. 10 karakter limited 5★ (Raiden, Hu Tao, Ayaka, dll), beberapa C6 dengan signature weapon R1. Abyss 36★ clear. Username bisa diganti, email ikut."
+    },
+    {
+      "id": "gi-joki-abyss",
+      "game": "Genshin Impact",
+      "category": "Jasa Joki",
+      "title": "Jasa Joki Spiral Abyss Full 36★",
+      "price": 150000,
+      "rank": "Floor 12 — 9★",
+      "image": "https://images.pexels.com/photos/9072216/pexels-photo-9072216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "images": [],
+      "stock": 99,
+      "badge": "",
+      "badges": [],
+      "featured": false,
+      "sold": 567,
+      "rating": 4.8,
+      "created_at": "2026-09-04T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Selesai dalam 24 jam",
+      "description": "Clear Spiral Abyss floor 9-12 full bintang 36 oleh theorycrafter berpengalaman. Selesai dalam 1 hari. Akun dijamin aman, tidak ada resource yang dihabiskan tanpa izin."
+    },
+    {
+      "id": "valo-immortal",
+      "game": "Valorant",
+      "category": "Akun Game",
+      "title": "Akun Immortal 3 — 20 Skin Premium Reaver & Prime",
+      "price": 3200000,
+      "rank": "Immortal 3",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1080&auto=format&fit=crop",
+      "images": [],
+      "stock": 1,
+      "badge": "Verified Seller",
+      "badges": [
+        "Verified Seller"
+      ],
+      "featured": false,
+      "sold": 63,
+      "rating": 4.9,
+      "created_at": "2026-09-01T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Riot ID & First Email lengkap",
+      "description": "Akun Valorant Immortal 3 region AP dengan 20 skin premium termasuk Reaver Operator, Prime Vandal, dan Glitchpop. Full agent unlock, Riot ID bisa diganti, email pertama ikut diserahkan."
+    },
+    {
+      "id": "valo-joki-radiant",
+      "game": "Valorant",
+      "category": "Jasa Joki",
+      "title": "Jasa Joki ke Radiant — Ex Pro Scene",
+      "price": 900000,
+      "rank": "Diamond → Radiant",
+      "image": "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "images": [],
+      "stock": 20,
+      "badge": "Garansi 100%",
+      "badges": [
+        "Garansi 100%"
+      ],
+      "featured": false,
+      "sold": 128,
+      "rating": 5,
+      "created_at": "2026-09-03T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Estimasi 5-7 hari, live report",
+      "description": "Dijoki oleh mantan pemain pro scene Valorant. Win rate joki 85%+, bisa request agent spesifik. Proses aman dengan VPN lokasi yang sama, tidak terdeteksi smurf."
+    },
+    {
+      "id": "ff-sultan-bundle",
+      "game": "Free Fire",
+      "category": "Akun Game",
+      "title": "Akun Sultan FF — Bundle Rare & Evo Gun Max",
+      "price": 1800000,
+      "rank": "Grandmaster",
+      "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=1080&auto=format&fit=crop",
+      "images": [],
+      "stock": 1,
+      "badge": "Diskon Hot",
+      "badges": [
+        "Diskon Hot"
+      ],
+      "featured": false,
+      "sold": 156,
+      "rating": 4.8,
+      "created_at": "2026-08-30T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Unbind aman, siap bind ke akun baru",
+      "description": "Akun Free Fire Grandmaster dengan bundle langka (Criminal, Hip Hop, Sakura), Evo Gun MP40 & AK max, serta 50+ emote rare. Login FB bisa dilepas, data aman."
+    },
+    {
+      "id": "ff-topup-2180",
+      "game": "Free Fire",
+      "category": "Topup Game",
+      "title": "Top Up 2180 Diamond Free Fire Termurah",
+      "price": 285000,
+      "rank": "Via ID Player",
+      "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "images": [],
+      "stock": 999,
+      "badge": "",
+      "badges": [],
+      "featured": false,
+      "sold": 3100,
+      "rating": 4.9,
+      "created_at": "2026-09-08T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Proses cepat 1-3 menit",
+      "description": "Top up diamond FF resmi via ID player, proses otomatis 1-5 menit. Harga termurah se-Indonesia, aman 100% tanpa risiko banned."
+    },
+    {
+      "id": "hsr-tl70",
+      "game": "Honkai Star Rail",
+      "category": "Akun Game",
+      "title": "Akun TL70 — Full Eidolon Seele & Jing Yuan",
+      "price": 7200000,
+      "rank": "Trailblaze 70",
+      "image": "https://images.unsplash.com/photo-1653142267767-a66c7cf17bc1?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "images": [],
+      "stock": 1,
+      "badge": "Verified Seller",
+      "badges": [
+        "Verified Seller"
+      ],
+      "featured": false,
+      "sold": 29,
+      "rating": 5,
+      "created_at": "2026-09-09T16:14:10.601Z",
+      "warranty": "100%",
+      "delivery_info": "Akun Whale lengkap dengan email",
+      "description": "Akun Honkai Star Rail TL70 server Asia. Seele E6 & Jing Yuan E6 dengan Light Cone signature, MoC full clear. Akun whale lengkap, email dan data ikut diserahkan."
+    }
+  ],
+  "SEED_TESTIMONIALS": [
+    {
+      "id": "t-rizky",
+      "name": "Rizky A.",
+      "game": "Mobile Legends",
+      "product": "Akun Sultan Mythic Glory",
+      "rating": 5,
+      "image": "",
+      "created_at": "2026-09-07T16:14:10.601Z",
+      "text": "Akun sesuai deskripsi, skin lengkap semua. Proses 10 menit langsung dikirim data login + email. Recommended banget!"
+    },
+    {
+      "id": "t-dinda",
+      "name": "Dinda P.",
+      "game": "Genshin Impact",
+      "product": "Jasa Joki Spiral Abyss",
+      "rating": 5,
+      "image": "",
+      "created_at": "2026-09-04T16:14:10.601Z",
+      "text": "Abyss 36 bintang kelar dalam sehari, resin gak disentuh sama sekali. Adminnya ramah, fast respon di WA."
+    },
+    {
+      "id": "t-fajar",
+      "name": "Fajar N.",
+      "game": "Valorant",
+      "product": "Jasa Joki ke Radiant",
+      "rating": 5,
+      "image": "",
+      "created_at": "2026-09-01T16:14:10.601Z",
+      "text": "Awalnya ragu, ternyata legit. Diamond ke Radiant 5 hari, update progres tiap malam. Aman tanpa smurf detect."
+    },
+    {
+      "id": "t-ayu",
+      "name": "Ayu S.",
+      "game": "Free Fire",
+      "product": "Top Up 2180 Diamond",
+      "rating": 4,
+      "image": "",
+      "created_at": "2026-08-29T16:14:10.601Z",
+      "text": "Diamond masuk 3 menit setelah bayar QRIS. Harganya paling murah dibanding tempat lain. Bakal langganan."
+    }
+  ],
+  "SEED_GAMES": [
+    {
+      "id": "g-mobile-legends",
+      "slug": "mobile-legends",
+      "name": "Mobile Legends",
+      "publisher": "Moonton",
+      "icon": "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1653142267767-a66c7cf17bc1?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 0,
+      "featured": true,
+      "currency": "Diamond",
+      "delivery_info": "Diamond masuk ke akun 1-5 menit setelah pembayaran terverifikasi. Pastikan User ID & Server benar.",
+      "notes": "Buka menu Profil di dalam game untuk melihat User ID dan Server.",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "User ID",
+          "placeholder": "Contoh: 123456789",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 6,
+          "max_len": 15,
+          "pattern": "^[0-9]{6,15}$",
+          "help": "Angka saja, lihat di menu Profil → User ID."
+        },
+        {
+          "key": "server_id",
+          "label": "Server",
+          "placeholder": "Contoh: 2345",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 3,
+          "max_len": 6,
+          "pattern": "^[0-9]{3,6}$",
+          "help": "4 angka di dalam tanda kurung setelah User ID, contoh 123456789 (2345)."
+        }
+      ],
+      "denominations": [
+        { "code": "86", "label": "86 Diamond", "amount": 86, "price": 22000, "price_strike": 25000, "stock": 500, "badge": "", "is_active": true, "seq": 0 },
+        { "code": "172", "label": "172 Diamond", "amount": 172, "price": 43000, "price_strike": 48000, "stock": 500, "badge": "", "is_active": true, "seq": 1 },
+        { "code": "257", "label": "257 Diamond", "amount": 257, "price": 64000, "price_strike": 70000, "stock": 400, "badge": "Populer", "is_active": true, "seq": 2 },
+        { "code": "355", "label": "355 Diamond", "amount": 355, "price": 87000, "price_strike": 95000, "stock": 300, "badge": "", "is_active": true, "seq": 3 },
+        { "code": "706", "label": "706 Diamond", "amount": 706, "price": 172000, "price_strike": 185000, "stock": 200, "badge": "Hemat", "is_active": true, "seq": 4 },
+        { "code": "2195", "label": "2195 Diamond", "amount": 2195, "price": 525000, "price_strike": 560000, "stock": 100, "badge": "", "is_active": true, "seq": 5 }
+      ]
+    },
+    {
+      "id": "g-free-fire",
+      "slug": "free-fire",
+      "name": "Free Fire",
+      "publisher": "Garena",
+      "icon": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 1,
+      "featured": true,
+      "currency": "Diamond",
+      "delivery_info": "Diamond masuk 1-5 menit setelah pembayaran terverifikasi.",
+      "notes": "Gunakan Player ID (bukan nickname) agar pengiriman tidak gagal.",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "Player ID",
+          "placeholder": "Contoh: 1234567890",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 8,
+          "max_len": 12,
+          "pattern": "^[0-9]{8,12}$",
+          "help": "Buka Profil di dalam game, Player ID tertera di bawah nickname."
+        }
+      ],
+      "denominations": [
+        { "code": "70", "label": "70 Diamond", "amount": 70, "price": 10000, "price_strike": 12000, "stock": 800, "badge": "Termurah", "is_active": true, "seq": 0 },
+        { "code": "140", "label": "140 Diamond", "amount": 140, "price": 19000, "price_strike": 22000, "stock": 800, "badge": "", "is_active": true, "seq": 1 },
+        { "code": "355", "label": "355 Diamond", "amount": 355, "price": 47000, "price_strike": 53000, "stock": 500, "badge": "Populer", "is_active": true, "seq": 2 },
+        { "code": "720", "label": "720 Diamond", "amount": 720, "price": 94000, "price_strike": 105000, "stock": 300, "badge": "", "is_active": true, "seq": 3 },
+        { "code": "2180", "label": "2180 Diamond", "amount": 2180, "price": 275000, "price_strike": 300000, "stock": 150, "badge": "", "is_active": true, "seq": 4 }
+      ]
+    },
+    {
+      "id": "g-pubg-mobile",
+      "slug": "pubg-mobile",
+      "name": "PUBG Mobile",
+      "publisher": "Tencent",
+      "icon": "https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 2,
+      "featured": false,
+      "currency": "UC",
+      "delivery_info": "UC masuk 1-5 menit setelah pembayaran terverifikasi.",
+      "notes": "Masukkan Character ID, bukan nama karakter.",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "Character ID",
+          "placeholder": "Contoh: 51234567890",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 8,
+          "max_len": 14,
+          "pattern": "^[0-9]{8,14}$",
+          "help": "Buka Inventory → Profil, Character ID ada di bawah nama."
+        }
+      ],
+      "denominations": [
+        { "code": "60", "label": "60 UC", "amount": 60, "price": 15000, "price_strike": 17000, "stock": 600, "badge": "", "is_active": true, "seq": 0 },
+        { "code": "325", "label": "325 UC", "amount": 325, "price": 75000, "price_strike": 82000, "stock": 400, "badge": "Populer", "is_active": true, "seq": 1 },
+        { "code": "660", "label": "660 UC", "amount": 660, "price": 150000, "price_strike": 165000, "stock": 250, "badge": "", "is_active": true, "seq": 2 },
+        { "code": "1800", "label": "1800 UC", "amount": 1800, "price": 400000, "price_strike": 430000, "stock": 120, "badge": "", "is_active": true, "seq": 3 }
+      ]
+    },
+    {
+      "id": "g-genshin-impact",
+      "slug": "genshin-impact",
+      "name": "Genshin Impact",
+      "publisher": "HoYoverse",
+      "icon": "https://images.unsplash.com/photo-1614294148960-9aa740632a87?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1614294148960-9aa740632a87?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 3,
+      "featured": false,
+      "currency": "Genesis Crystal",
+      "delivery_info": "Genesis Crystal masuk 1-10 menit setelah pembayaran terverifikasi.",
+      "notes": "Zona wajib diisi agar top up masuk ke server yang benar.",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "UID",
+          "placeholder": "Contoh: 812345678",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 8,
+          "max_len": 10,
+          "pattern": "^[0-9]{8,10}$",
+          "help": "UID tampil di kiri bawah layar utama."
+        },
+        {
+          "key": "server_id",
+          "label": "Zone",
+          "placeholder": "Contoh: Asia",
+          "type": "text",
+          "inputmode": "text",
+          "required": true,
+          "min_len": 3,
+          "max_len": 16,
+          "pattern": "^[A-Za-z0-9 ]{3,16}$",
+          "help": "Contoh: Asia, America, Europe, TW/HK/MO."
+        }
+      ],
+      "denominations": [
+        { "code": "60", "label": "60 Genesis Crystal", "amount": 60, "price": 16000, "price_strike": 18000, "stock": 500, "badge": "", "is_active": true, "seq": 0 },
+        { "code": "300", "label": "300 + 30 Genesis Crystal", "amount": 330, "price": 79000, "price_strike": 85000, "stock": 400, "badge": "Bonus", "is_active": true, "seq": 1 },
+        { "code": "980", "label": "980 + 110 Genesis Crystal", "amount": 1090, "price": 249000, "price_strike": 265000, "stock": 200, "badge": "Populer", "is_active": true, "seq": 2 },
+        { "code": "1980", "label": "1980 + 260 Genesis Crystal", "amount": 2240, "price": 479000, "price_strike": 510000, "stock": 100, "badge": "", "is_active": true, "seq": 3 }
+      ]
+    },
+    {
+      "id": "g-honkai-star-rail",
+      "slug": "honkai-star-rail",
+      "name": "Honkai Star Rail",
+      "publisher": "HoYoverse",
+      "icon": "https://images.unsplash.com/photo-1542751110-97427bbecf20?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1542751110-97427bbecf20?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 4,
+      "featured": false,
+      "currency": "Oneiric Shard",
+      "delivery_info": "Oneiric Shard masuk 1-10 menit setelah pembayaran terverifikasi.",
+      "notes": "Zona wajib diisi agar top up masuk ke server yang benar.",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "UID",
+          "placeholder": "Contoh: 812345678",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 8,
+          "max_len": 10,
+          "pattern": "^[0-9]{8,10}$",
+          "help": "UID tampil di kiri bawah layar utama."
+        },
+        {
+          "key": "server_id",
+          "label": "Zone",
+          "placeholder": "Contoh: Asia",
+          "type": "text",
+          "inputmode": "text",
+          "required": true,
+          "min_len": 3,
+          "max_len": 16,
+          "pattern": "^[A-Za-z0-9 /]{3,16}$",
+          "help": "Contoh: Asia, America, Europe, TW/HK/MO."
+        }
+      ],
+      "denominations": [
+        { "code": "60", "label": "60 Oneiric Shard", "amount": 60, "price": 16000, "price_strike": 18000, "stock": 400, "badge": "", "is_active": true, "seq": 0 },
+        { "code": "330", "label": "330 Oneiric Shard", "amount": 330, "price": 79000, "price_strike": 85000, "stock": 300, "badge": "Populer", "is_active": true, "seq": 1 },
+        { "code": "1090", "label": "1090 Oneiric Shard", "amount": 1090, "price": 249000, "price_strike": 265000, "stock": 150, "badge": "", "is_active": true, "seq": 2 }
+      ]
+    },
+    {
+      "id": "g-valorant",
+      "slug": "valorant",
+      "name": "Valorant",
+      "publisher": "Riot Games",
+      "icon": "https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 5,
+      "featured": false,
+      "currency": "Valorant Points",
+      "delivery_info": "Valorant Points masuk 5-30 menit setelah pembayaran terverifikasi.",
+      "notes": "Riot ID berformat Nama#Tag. Login akun diperlukan untuk pengiriman VP.",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "Riot ID",
+          "placeholder": "Contoh: Player#ID1",
+          "type": "text",
+          "inputmode": "text",
+          "required": true,
+          "min_len": 5,
+          "max_len": 32,
+          "pattern": "^[A-Za-z0-9_. ]{3,16}#[A-Za-z0-9]{3,5}$",
+          "help": "Format: Nama#Tag, contoh Player#ID1."
+        }
+      ],
+      "denominations": [
+        { "code": "420", "label": "420 VP", "amount": 420, "price": 45000, "price_strike": 50000, "stock": 300, "badge": "", "is_active": true, "seq": 0 },
+        { "code": "875", "label": "875 VP", "amount": 875, "price": 90000, "price_strike": 98000, "stock": 250, "badge": "Populer", "is_active": true, "seq": 1 },
+        { "code": "2200", "label": "2200 VP", "amount": 2200, "price": 220000, "price_strike": 240000, "stock": 120, "badge": "", "is_active": true, "seq": 2 }
+      ]
+    },
+    {
+      "id": "g-honor-of-kings",
+      "slug": "honor-of-kings",
+      "name": "Honor of Kings",
+      "publisher": "Tencent",
+      "icon": "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 6,
+      "featured": false,
+      "currency": "Tokens",
+      "delivery_info": "Token masuk 1-10 menit setelah pembayaran terverifikasi.",
+      "notes": "Masukkan Player ID yang tertera di menu Profil.",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "Player ID",
+          "placeholder": "Contoh: 123456789",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 8,
+          "max_len": 12,
+          "pattern": "^[0-9]{8,12}$",
+          "help": "Buka Profil di dalam game untuk melihat Player ID."
+        }
+      ],
+      "denominations": [
+        { "code": "80", "label": "80 Tokens", "amount": 80, "price": 15000, "price_strike": 17000, "stock": 400, "badge": "", "is_active": true, "seq": 0 },
+        { "code": "400", "label": "400 Tokens", "amount": 400, "price": 72000, "price_strike": 80000, "stock": 250, "badge": "Populer", "is_active": true, "seq": 1 },
+        { "code": "2000", "label": "2000 Tokens", "amount": 2000, "price": 350000, "price_strike": 380000, "stock": 100, "badge": "", "is_active": true, "seq": 2 }
+      ]
+    },
+    {
+      "id": "g-call-of-duty-mobile",
+      "slug": "call-of-duty-mobile",
+      "name": "Call of Duty Mobile",
+      "publisher": "Activision",
+      "icon": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=srgb&fm=jpg&w=1080&q=85",
+      "is_active": true,
+      "seq": 7,
+      "featured": false,
+      "currency": "CP",
+      "delivery_info": "CP masuk 1-10 menit setelah pembayaran terverifikasi.",
+      "notes": "Masukkan Open ID / Player ID (bukan nickname).",
+      "fields": [
+        {
+          "key": "user_id",
+          "label": "Player ID",
+          "placeholder": "Contoh: 6543210987654321",
+          "type": "text",
+          "inputmode": "numeric",
+          "required": true,
+          "min_len": 8,
+          "max_len": 20,
+          "pattern": "^[0-9]{8,20}$",
+          "help": "Buka Profil → Player ID di dalam game."
+        }
+      ],
+      "denominations": [
+        { "code": "80", "label": "80 CP", "amount": 80, "price": 15000, "price_strike": 17000, "stock": 400, "badge": "", "is_active": true, "seq": 0 },
+        { "code": "420", "label": "420 CP", "amount": 420, "price": 73000, "price_strike": 80000, "stock": 250, "badge": "Populer", "is_active": true, "seq": 1 },
+        { "code": "880", "label": "880 CP", "amount": 880, "price": 148000, "price_strike": 160000, "stock": 150, "badge": "", "is_active": true, "seq": 2 }
+      ]
+    }
+  ]
+}

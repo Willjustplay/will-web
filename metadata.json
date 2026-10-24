@@ -1,0 +1,6 @@
+{
+  "name": "WillJustPlay - Marketplace Akun Game & Jasa Joki",
+  "description": "Platform jual beli akun game, top-up diamond dan point instan, serta jasa joki terpercaya dengan garansi 100%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
